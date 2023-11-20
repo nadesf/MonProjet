@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 I'am developer 1
-=======
-Je suis le dévelopeur 2
->>>>>>> feature2
