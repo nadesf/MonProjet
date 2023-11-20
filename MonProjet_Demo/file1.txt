@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 I'am developer 1
+=======
+>>>>>>> feature2
